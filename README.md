@@ -1,2 +1,1 @@
-# -2-Java
-PA
+Exercitii rezolvate java (PC)
